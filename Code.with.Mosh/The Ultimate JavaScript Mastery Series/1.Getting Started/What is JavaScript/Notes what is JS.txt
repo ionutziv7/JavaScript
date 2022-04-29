@@ -1,0 +1,18 @@
+JAVASCRIPT TODAY
+
+Web / Mobile	  Real-time	   Command-line		 Games
+   Apps	       Networking Apps	       Tools
+
+Where does JavaScript code run?
+	
+	Browser 					Node					     
+	  						
+	 -> JavaScript Engine					
+	      FireFox: SpiderMokey
+	      Chrome: v8
+
+What is the difference between JavaScript and ECMAScript?
+
+ECMAScript is a Specification
+
+JavaScript is a programming language that confirm to this Specification
